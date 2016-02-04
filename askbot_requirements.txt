@@ -30,3 +30,5 @@ requirements-parser
 sanction==0.3.1
 simplejson
 unidecode
+
+django-rosetta
