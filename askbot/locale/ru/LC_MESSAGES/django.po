@@ -5014,6 +5014,7 @@ msgid ""
 "Below is the list of available badges and number of times each type of badge"
 " has been awarded."
 msgstr ""
+"Ниже приведён список отличительных знаков и количество присвоенных."
 
 #: templates/badges.html:32
 msgid "Community badges"
@@ -5800,7 +5801,7 @@ msgstr ""
 
 #: templates/users.html:69
 msgid "No users found."
-msgstr ""
+msgstr "Пользователь не найден."
 
 #: templates/authopenid/authopenid_macros.html:63
 msgid "Please enter your <span>user name</span>, then sign in"
@@ -5844,23 +5845,23 @@ msgstr "Зарегистрироваться"
 
 #: templates/authopenid/confirm_email.txt:1
 msgid "Thank you for registering at our Q&A forum!"
-msgstr ""
+msgstr "Благодарим Вас за регистрацию на нашем сервисе вопросов!"
 
 #: templates/authopenid/confirm_email.txt:3
 msgid "Your account details are:"
-msgstr ""
+msgstr "Детали Вашего аккаунта:"
 
 #: templates/authopenid/confirm_email.txt:5
 msgid "Username:"
-msgstr ""
+msgstr "Имя пользователя:"
 
 #: templates/authopenid/confirm_email.txt:6
 msgid "Password:"
-msgstr ""
+msgstr "Пароль"
 
 #: templates/authopenid/confirm_email.txt:8
 msgid "Please sign in here:"
-msgstr ""
+msgstr "Пожалуйста, войдите:"
 
 #: templates/authopenid/confirm_email.txt:11
 #: templates/authopenid/email_validation.txt:13
@@ -5873,7 +5874,7 @@ msgstr ""
 #: templates/authopenid/email_validation.html:3
 #, python-format
 msgid "Greetings from the %(site_name)s"
-msgstr ""
+msgstr "Вас приветствует %(site_name)s"
 
 #: templates/authopenid/email_validation.html:7
 #: templates/authopenid/email_validation.txt:3
@@ -5895,11 +5896,11 @@ msgstr "Если Вы считаете, что это сообщение был�
 
 #: templates/authopenid/email_validation.txt:1
 msgid "Greetings from the Q&A forum"
-msgstr ""
+msgstr "Вас приветствует сервис вопросов"
 
 #: templates/authopenid/logout.html:3
 msgid "Logout"
-msgstr ""
+msgstr "Выйти"
 
 #: templates/authopenid/logout.html:5
 msgid "You have successfully logged out"
@@ -5968,7 +5969,7 @@ msgstr "Вход завершился неудачей, попробуйте е�
 
 #: templates/authopenid/signin.html:98
 msgid "Login"
-msgstr ""
+msgstr "Войти"
 
 #: templates/authopenid/signin.html:100
 #: templates/authopenid/widget_signin.html:95
@@ -6037,12 +6038,12 @@ msgstr "По-прежнему проблемы со входом ?"
 #: templates/authopenid/signin.html:194
 #: templates/authopenid/widget_signin.html:187
 msgid "Enter your email address below and obtain a new key"
-msgstr ""
+msgstr "Введите Ваш email для получения ключа восстановления"
 
 #: templates/authopenid/signin.html:196
 #: templates/authopenid/widget_signin.html:189
 msgid "Enter your email address below to recover your account"
-msgstr ""
+msgstr "Введите Ваш email для восстановления доступа к аккаунту"
 
 #: templates/authopenid/signin.html:199
 #: templates/authopenid/widget_signin.html:192
@@ -6090,7 +6091,7 @@ msgstr "вернуться к старнице OpenID входа"
 
 #: templates/authopenid/tos_field.html:4
 msgid "Terms of service:"
-msgstr ""
+msgstr "Условия использования:"
 
 #: templates/authopenid/verify_email.html:2
 #: templates/authopenid/verify_email.html:4
