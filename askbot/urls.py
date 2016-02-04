@@ -731,3 +731,8 @@ if 'avatar' in settings.INSTALLED_APPS:
             name='askbot_avatar_enable_default_avatar'
         )
     )
+
+if 'rosetta' in settings.INSTALLED_APPS:
+    urlpatterns += patterns('',
+        url(r'^rosetta/', include('rosetta.urls')),
+    )
