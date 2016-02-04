@@ -7656,7 +7656,7 @@ msgstr "карма:"
 
 #: templates/widgets/user_long_score_and_badge_summary.html:15
 msgid "badges:"
-msgstr "награды"
+msgstr "награды: "
 
 #: templates/widgets/user_navigation.html:11
 msgid "sign out"
