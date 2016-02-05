@@ -3003,7 +3003,7 @@ msgstr ""
 
 #: conf/words.py:503 conf/words.py:504
 msgid "ask a question interesting to this community"
-msgstr "Задавайте вопросы интересные для сообщества"
+msgstr "задавайте вопросы интересные для сообщества"
 
 #: conf/words.py:512 conf/words.py:513
 msgid "No questions here."
@@ -7575,7 +7575,7 @@ msgstr "награды"
 msgid ""
 "since you are not logged in right now, you will be asked to sign in or "
 "register after making your post"
-msgstr "к сожалению, Вы не вошли, это можно сделать прямо сейчас или"
+msgstr "к сожалению, Вы не вошли, это можно сделать прямо сейчас или "
 "после того, как напишете вопрос"
 
 #: templates/widgets/question_edit_tips.html:11
