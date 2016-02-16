@@ -424,72 +424,72 @@ msgstr "Ваше сообщение %(site_name)s теперь опублико�
 #: urls.py:46
 msgctxt "urls"
 msgid "questions"
-msgstr ""
+msgstr "questions"
 
 #: urls.py:51
 msgctxt "urls"
 msgid "question"
-msgstr ""
+msgstr "question"
 
 #: urls.py:78 urls.py:360 urls.py:366 urls.py:375 urls.py:384
 msgctxt "urls"
 msgid "tags/"
-msgstr ""
+msgstr "tags/"
 
 #: urls.py:83 urls.py:89 urls.py:98 urls.py:104 urls.py:113 urls.py:120
 msgctxt "urls"
 msgid "users/"
-msgstr ""
+msgstr "users/"
 
 #: urls.py:90
 msgctxt "urls"
 msgid "by-group/"
-msgstr ""
+msgstr "by-group/"
 
 #: urls.py:98 urls.py:180 urls.py:267 urls.py:386 urls.py:606
 msgctxt "urls"
 msgid "edit/"
-msgstr ""
+msgstr "edit/"
 
 #: urls.py:105 urls.py:360 urls.py:367 urls.py:376 urls.py:385
 msgctxt "urls"
 msgid "subscriptions/"
-msgstr ""
+msgstr "subscriptions/"
 
 #: urls.py:114
 msgctxt "urls"
 msgid "select_languages/"
-msgstr ""
+msgstr "select_languages/"
 
 #: urls.py:125
 msgctxt "urls"
 msgid "groups/"
-msgstr ""
+msgstr "groups/"
 
 #: urls.py:130 urls.py:135
 msgctxt "urls"
 msgid "badges/"
-msgstr ""
+msgstr "badges/"
 
 #: urls.py:148
 msgctxt "urls"
 msgid "feedback/"
-msgstr ""
+msgstr "feedback/"
 
 #: urls.py:169
 msgctxt "urls"
 msgid "about/"
-msgstr ""
+msgstr "about/"
 
 #: urls.py:170
 msgctxt "urls"
 msgid "faq/"
-msgstr ""
+msgstr "faq/"
 
 #: urls.py:171
 msgctxt "urls"
 msgid "privacy/"
-msgstr ""
+msgstr "privacy/"
 
 #: urls.py:173
 msgctxt "urls"
